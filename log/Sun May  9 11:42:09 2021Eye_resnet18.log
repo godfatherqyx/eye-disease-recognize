@@ -1,0 +1,17 @@
+2021-05-09 11:42:09,628 - Eye - INFO - Train Dataset uploaded!
+2021-05-09 11:42:09,628 - Eye - INFO - device:cuda
+2021-05-09 11:43:22,805 - Eye - INFO - ['Epoch:00, Iter: 20, Lr:0.00010000', 'Loss:1.4673', 'train_acc:37.81']
+2021-05-09 11:43:31,728 - Eye - INFO - ['Epoch:00, Iter: 40, Lr:0.00010000', 'Loss:1.1705', 'train_acc:47.03']
+2021-05-09 11:43:40,824 - Eye - INFO - ['Epoch:00, Iter: 60, Lr:0.00010000', 'Loss:1.0476', 'train_acc:51.43']
+2021-05-09 11:43:50,080 - Eye - INFO - ['Epoch:00, Iter: 80, Lr:0.00010000', 'Loss:1.0283', 'train_acc:54.41']
+2021-05-09 11:43:59,408 - Eye - INFO - ['Epoch:00, Iter:100, Lr:0.00010000', 'Loss:0.9436', 'train_acc:56.88']
+2021-05-09 11:44:08,672 - Eye - INFO - ['Epoch:00, Iter:120, Lr:0.00010000', 'Loss:0.7627', 'train_acc:58.49']
+2021-05-09 11:44:18,073 - Eye - INFO - ['Epoch:00, Iter:140, Lr:0.00010000', 'Loss:0.9589', 'train_acc:60.15']
+2021-05-09 11:44:27,456 - Eye - INFO - ['Epoch:00, Iter:160, Lr:0.00010000', 'Loss:0.9358', 'train_acc:61.31']
+2021-05-09 11:44:36,654 - Eye - INFO - ['Epoch:00, Iter:180, Lr:0.00010000', 'Loss:0.7826', 'train_acc:62.96']
+2021-05-09 11:44:46,224 - Eye - INFO - ['Epoch:00, Iter:200, Lr:0.00010000', 'Loss:0.7860', 'train_acc:64.21']
+2021-05-09 11:44:55,697 - Eye - INFO - ['Epoch:00, Iter:220, Lr:0.00010000', 'Loss:0.6263', 'train_acc:65.49']
+2021-05-09 11:45:05,165 - Eye - INFO - ['Epoch:00, Iter:240, Lr:0.00010000', 'Loss:0.5173', 'train_acc:66.83']
+2021-05-09 11:45:14,732 - Eye - INFO - ['Epoch:00, Iter:260, Lr:0.00010000', 'Loss:0.5605', 'train_acc:68.05']
+2021-05-09 11:45:24,240 - Eye - INFO - ['Epoch:00, Iter:280, Lr:0.00010000', 'Loss:0.5215', 'train_acc:69.25']
+2021-05-09 11:45:28,683 - Eye - INFO - ['Epoch:00, Lr:0.00010000, Cost:140.15s', 'Loss:0.5719', 'train_acc:69.29', 'val_acc:55.99', 'val_loss:1.19']
